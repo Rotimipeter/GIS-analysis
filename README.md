@@ -122,7 +122,7 @@ Areas with relatively higher NDVI values represented locations with greater vege
 
 ### NDVI Map
 
-![Eleyele Basin NDVI Map](images/eleyele_ndvi_map.png)
+!Eleyele Basin NDVI Map (images/eleyele_ndvi_map.png)
 
 *Figure 1. NDVI distribution across the Eleyele Basin, Oyo State, Nigeria.*
 
@@ -226,5 +226,6 @@ The project forms part of my broader interest in **GIS, remote sensing, hydrolog
 
 GIS Analyst | Environmental & Hydrological GIS Specialist
 rotimipeter6@gmail.com
+
 * [Flood Risk Mapping](#)
 * [Other GIS/Remote Sensing Projects](#)
