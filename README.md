@@ -37,7 +37,7 @@ The main objectives of this project were to:
 
 ### Satellite Data
 
-* Satellite imagery: **[Landsat 8 / Landsat 9 / Sentinel-2 – INSERT ACTUAL DATASET]**
+* Satellite imagery: **Landsat 8 **
 * Acquisition date: **1984,1989, 1994, 1999,2004, 2009, 2014 and 2019**
 * Source: **[USGS EarthExplorer**
 
