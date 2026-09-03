@@ -79,9 +79,7 @@ Interpretation
 
 The Normalized Difference Vegetation Index was calculated using:
 
-$$
 NDVI = \frac{NIR - RED}{NIR + RED}
-$$
 
 where:
 
