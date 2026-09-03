@@ -38,8 +38,8 @@ The main objectives of this project were to:
 ### Satellite Data
 
 * Satellite imagery: **Landsat 8 **
-* Acquisition date: **1984,1989, 1994, 1999,2004, 2009, 2014 and 2019**
-* Source: **[USGS EarthExplorer**
+* Acquisition date: **1984,1989, 1994, 1999,2004, 2009, 2014, and 2019**
+* Source: **USGS EarthExplorer**
 
 ### Supporting Data
 
@@ -107,7 +107,7 @@ Results
 
 The NDVI analysis revealed spatial variation in vegetation conditions across the Eleyele Basin.
 
-Areas with relatively higher NDVI values represented locations with greater vegetation density, while lower NDVI values were generally associated with areas such as built-up surfaces, exposed soil, water or sparsely vegetated land.
+Areas with relatively higher NDVI values represented locations with greater vegetation density. In comparison, lower NDVI values were generally associated with areas such as built-up surfaces, exposed soil, water or sparsely vegetated land.
 
 ### Key observations
 
@@ -226,6 +226,3 @@ The project forms part of my broader interest in **GIS, remote sensing, hydrolog
 
 GIS Analyst | Environmental & Hydrological GIS Specialist
 rotimipeter6@gmail.com
-
-* [Flood Risk Mapping](#)
-* [Other GIS/Remote Sensing Projects](#)
